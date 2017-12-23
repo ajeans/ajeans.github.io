@@ -10,6 +10,7 @@ url: "http://gotibo.fr" # the base hostname & protocol for your site, e.g. http:
 github_username:  ajeans
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
+# theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
