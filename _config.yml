@@ -1,1 +1,15 @@
+title: Gotibo
+email: arnaud.jeansen@gotibo.fr
+description: >- # this means to ignore newlines until "baseurl:"
+  Gotibo est une société de conseil en informatique et spécialisée dans les nouvelles technologies.
+  Notre approche consiste à maitriser la complexité des projets et des infrastructures, via des approches
+  issues des usines de développement, les bonnes pratiques d'architecture et un déploiement basé sur les 
+  technologies DevOps.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://gotibo.fr" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ajeans
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
